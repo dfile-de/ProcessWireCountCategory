@@ -54,7 +54,6 @@
 	  $fields = wire("fields");
 	  $templates = wire("templates");
 	  $modules = wire("modules");
-	  $templates= wire("templates");
 	  $fieldgroups= wire("fieldgroups");
 	  $modules= wire("modules");
 	  
