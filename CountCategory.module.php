@@ -26,7 +26,6 @@
 
 	public function ___execute() {
 	    $out.='<p>Update - Anzahl der Produkte in den Kategorien.</p>';
-	   // include_once('count_category.php');
 	    $out.=$this->updateCategories();
 		return $out;
 	 }
